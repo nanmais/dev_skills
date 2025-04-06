@@ -87,7 +87,7 @@ print(classification_report(y_test, y_pred, target_names=['普通邮件', '垃�
 <img src="images/3.png" width="800" alt="global">
 
 ## 样本平衡处理
-<img src="images/4.png" width="800" alt="sample_balancing">
+<img src="images/4png.png" width="800" alt="sample_balancing">
 
 ##添加全局方法选择/样本平衡处理/模型评估指标
 <img src="images/5.png" width="800" alt="classify_all">
