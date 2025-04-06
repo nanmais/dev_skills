@@ -77,17 +77,17 @@ print(classification_report(y_test, y_pred, target_names=['普通邮件', '垃�
 # 代码运行结果
 
 ## 默认分类模式，对应代码classify.py
-<img src="images/nlp_classify.png" width="800" alt="classify">
+<img src="images/1.png" width="800" alt="classify">
 
 ## 灵活切换方式
 ### 局部切换 对应代码classify_local.py
-<img src="images/nlp_local.png" width="800" alt="local">
+<img src="images/2.png" width="800" alt="local">
 
-### 局部切换 对应代码classify_global.py
-<img src="images/nlp_global.png" width="800" alt="global">
+### 局部切换 对应代码classify_2.py
+<img src="images/3.png" width="800" alt="global">
 
 ## 样本平衡处理
-<img src="images/nlp_balance.png" width="800" alt="sample_balancing">
+<img src="images/4.png" width="800" alt="sample_balancing">
 
-## 最终版_添加全局方法选择/样本平衡处理/模型评估指标
-<img src="images/nlp_all.png" width="800" alt="classify_all">
+##添加全局方法选择/样本平衡处理/模型评估指标
+<img src="images/5.png" width="800" alt="classify_all">
